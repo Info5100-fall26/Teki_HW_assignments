@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/yashaadititeki/Desktop/Teki_HW_repo/homework12/**/*.jar"
+    ]
+}
