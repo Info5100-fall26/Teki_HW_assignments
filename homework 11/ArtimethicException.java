@@ -1,0 +1,6 @@
+/**
+ * ArtimethicException
+ */
+public class ArtimethicException {
+
+}
